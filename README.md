@@ -1,6 +1,5 @@
 #Tutoring
 
-```
 ##HTML and CSS - A 2017 lesson plan for Chie and Sachiko
 
 ##Lesson goals:
@@ -18,5 +17,3 @@ Make a simple HTML + CSS page to introduce yourself
      - how to style in-line
      - how to style in a separate css file
      - select by class, select by id
-
-```
