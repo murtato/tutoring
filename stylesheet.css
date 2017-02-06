@@ -1,8 +1,41 @@
+body {
+  background-color: #C5DFE8;
+}
+
 .profilepic {
   width: 250px;
 }
 
-.container {
+.personalstuff {
   text-align: center;
   align-content: center;
+}
+
+.biography {
+  position: relative;
+  margin: 0 auto;
+  width: 65%;
+}
+
+.navbar-fixed-bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%
+}
+
+.footer-left {
+  text-align: left;
+  float: left;
+
+}
+
+.footer-center {
+  text-align: center;
+
+}
+
+.footer-right {
+  text-align: right;
+  float: right;
+
 }
