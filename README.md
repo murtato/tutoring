@@ -21,4 +21,4 @@ Make a simple HTML + CSS page to introduce yourself
 - select by class, select by id
 
 #Homework time!
-![Alt text](/Users/victortran/code/personal_projects/tutoring/img/screenshot.png)
+![Alt text](/Users/victortran/code/personal_projects/tutoring/img/Screenshot.png)
