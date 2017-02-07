@@ -32,4 +32,4 @@ Try to make your website look like the above screenshot.
 
 #GOOD LUCK!!!
 
-__Big hint: click the files listed above to read them ;)__
+*Big hint: click the files listed above to read them ;)*
