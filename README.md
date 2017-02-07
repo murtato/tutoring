@@ -23,3 +23,11 @@ Make a simple HTML + CSS page to introduce yourself
 #Homework time!
 ![alt tag](img/Screenshot.png)
 
+##Your first homepage
+Try to make your website look like the above screenshot.
+- Pay attention to where you want your image, navigation bar (navbar), footer, and text boxes to appear on the page.
+- Remember, everything you see on the internet is a series of boxes. On your Macbook, use Google Chrome's element inspector **(⌘ + Shift + C)** or the console tool **(⌘ + option + J)** to check the properties of each element.
+- **Use Google** if you get stuck! Developers use it all the time.
+- If you get really stuck, just shoot me a message on Facebook or at murtato@gmail.com
+
+#GOOD LUCK!!!
