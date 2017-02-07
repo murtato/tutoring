@@ -31,3 +31,5 @@ Try to make your website look like the above screenshot.
 - If you get really stuck, just shoot me a message on Facebook or at murtato@gmail.com
 
 #GOOD LUCK!!!
+
+__Big hint: click the files listed above to read them ;)__
